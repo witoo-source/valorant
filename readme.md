@@ -6,6 +6,12 @@
 - This API just make the HTTP Requests to the original API endpoints and return their responses, it does not add any new endpoint.
 - This API requires an API KEY, you can get one [here](https://discord.gg/X3GaVkX2YN)
 
+### Installing
+
+```bash
+dotnet add package EasyValorantAPI --version 0.0.2
+```
+
 ### Available endpoints
 
 - ```Evapi.GetPlayerDataByUser``` 
