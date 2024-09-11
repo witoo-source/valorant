@@ -1,5 +1,7 @@
 # An Easy Valorant API for C#, for you! ❤️
 
+![evapilogo](https://github.com/user-attachments/assets/6a577b7f-c794-4f0b-882e-b168ab357657)
+
 ### About
 
 - This API is based on [Henrik Dev's Valorant API](https://docs.henrikdev.xyz).
