@@ -11,7 +11,7 @@
 ### Installing
 
 ```bash
-dotnet add package EasyValorantAPI --version 0.0.2
+dotnet add package EasyValorantAPI --version 0.0.3
 ```
 
 ### Available endpoints
