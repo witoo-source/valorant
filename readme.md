@@ -112,7 +112,7 @@ using System.Threading.Tasks;
 using EasyValorantAPI;
 
 class Test {
-   static async Task Main(string[] args] {
+   static async Task Main(string[] args) {
 	
      Evapi Api = new Evapi("ApiKey");
 
